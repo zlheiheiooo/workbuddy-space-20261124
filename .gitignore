@@ -1,0 +1,8 @@
+# WorkBuddy 工作区元数据与记忆文件（不纳入版本管理）
+.workbuddy/
+
+# 临时文件
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
